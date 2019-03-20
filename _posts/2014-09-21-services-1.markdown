@@ -1,10 +1,10 @@
 ---
 layout: default
-img: tommygreen.png
+img: ipad.png
 category: Services
-title: @Tommyhilfiger<br>
+title: Tommy Hilfiger:<br> Jacket
 description: |
 ---
- ✌🏽piece @tommyhilfiger green jacket 
-Size: Medium
+green jacket <br>
+Size: Medium <br>
 Price: $40
