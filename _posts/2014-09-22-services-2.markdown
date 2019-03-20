@@ -1,6 +1,6 @@
 ---
 layout: default
-img: NbaTrackPants.png
+img: NbaTrackPants.PNG
 category: Services
 title: nba pants<br>
 description: |
