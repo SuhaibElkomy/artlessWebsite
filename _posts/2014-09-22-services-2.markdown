@@ -5,6 +5,6 @@ category: Services
 title: nba pants<br>
 description: |
 ---
-  @nba track pants great condition.
+  @Nba Track Pants great condition.
 Size: Medium
 Price: $25
