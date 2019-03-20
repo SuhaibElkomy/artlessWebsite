@@ -1,6 +1,6 @@
 ---
 layout: default
-img: artless.PNG
+img: artless.jpg
 category: Services
 title: GiveAway<br> Winner!
 description: |
