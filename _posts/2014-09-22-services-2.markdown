@@ -2,7 +2,7 @@
 layout: default
 img: NbaTrackPants.PNG
 category: Services
-title: nba pants<br>
+title: Nba Track Pants<br>
 description: |
 ---
   @Nba Track Pants great condition.
